@@ -24,4 +24,6 @@ div#wall div.parent div:nth-child(2) div:nth-child(1)#tag-6 {
   display: none;
 }
 
-div#wall div.parent div:first-child div:first-child#tag-7.slick
+div#wall div.parent div:first-child div:first-child#tag-7.slick {
+  display: none;
+}
